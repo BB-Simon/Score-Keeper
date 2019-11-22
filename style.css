@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+}
+body {
+  background-image: url(./img/Football-stadium-1920x1280.jpg);
+  background-size: cover;
+  opacity: 70%;
+  background-repeat: no-repeat;
+}
+.content {
+  text-align: center;
+  margin-right: 30%;
+  margin-left: 35%;
+  margin-top: 15%;
+  color: #fff;
+}
+.green {
+  color: green;
+}
